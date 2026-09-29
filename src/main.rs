@@ -5,6 +5,7 @@ pub mod tui;
 pub mod update;
 pub mod config;
 pub mod scanner;
+pub mod model;
 
 use app::App;
 use color_eyre::Result;
